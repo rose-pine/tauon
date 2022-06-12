@@ -24,4 +24,4 @@
 
 ## Thanks to
 
-- [Robert B.](#!)
+- Robert B.
